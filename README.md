@@ -43,12 +43,12 @@ git clone https://github.com/username/keretain.git
 ```
 
 **Opsi B: Download ZIP**
-1. Klik tombol **Code → Download ZIP** di halaman repository
-2. Extract file ZIP
+Klik tombol **Code → Download ZIP** di halaman repository ini
+
 
 ### Langkah 2 — Pindahkan ke Folder XAMPP
 
-Pindahkan folder project ke:
+Extract all file ZIP yg sudah didownload, dan wajib pindahkan ke folder project :
 ```
 C:\xampp\htdocs\train_in\
 ```
@@ -154,8 +154,6 @@ INSERT INTO schedules (nama_kereta, asal, tujuan, jam_berangkat, jam_tiba, tangg
 ('Argo Wilis', 'Bandung', 'Surabaya', '07:30:00', '16:45:00', '2026-06-01', 370000);
 ```
 
----
-
 ### Langkah 5 — Cek Konfigurasi Koneksi
 
 Buka file `koneksi.php` dan pastikan isinya:
@@ -179,7 +177,7 @@ http://localhost/train_in/
 ```
 
 🎉 Aplikasi siap digunakan!
-
+---
 
 ## 🗺️ Alur Penggunaan Aplikasi
 
