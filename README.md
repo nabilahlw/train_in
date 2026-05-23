@@ -3,9 +3,8 @@
 ![PHP](https://img.shields.io/badge/PHP-8.x-blue?logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql)
 ![XAMPP](https://img.shields.io/badge/XAMPP-Required-red?logo=apache)
-![License](https://img.shields.io/badge/License-MIT-green)
 
-KeretaIN adalah aplikasi web pemesanan tiket kereta api berbasis PHP dan MySQL. Pengguna dapat memilih jadwal kereta, mengisi data penumpang, melakukan pembayaran via transfer bank, dan mengunduh invoice tiket.
+KeretaIN adalah aplikasi web pemesanan tiket kereta api berbasis PHP dan MySQL. Pengguna dapat memilih jadwal kereta, mengisi data penumpang, melakukan pembayaran via transfer bank, dan mengunduh invoice tiket. Projek ini dibuat untuk keperluan tugas mata kuliah pemrograman web.
 
 ## ✨ Fitur
 - Lihat jadwal kereta yang tersedia
@@ -210,6 +209,3 @@ Invoice & Download Tiket (invoice.php)
 | `style.css` | Styling halaman |
 | `uploads/` | Folder penyimpanan bukti transfer |
 
-## 📄 License
-
-MIT License — bebas digunakan untuk keperluan belajar.
