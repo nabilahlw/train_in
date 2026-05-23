@@ -6,6 +6,10 @@
 
 KeretaIN adalah aplikasi web pemesanan tiket kereta api berbasis PHP dan MySQL. Pengguna dapat memilih jadwal kereta, mengisi data penumpang, melakukan pembayaran via transfer bank, dan mengunduh invoice tiket. Projek ini dibuat untuk keperluan tugas mata kuliah pemrograman web.
 
+## 🎬 Demo Aplikasi
+ 
+[▶️ Klik untuk menonton Demo KeretaIN](https://drive.google.com/file/d/1CB9Pu-Ixf-EU1ZV5RuIn9npw5oUtYUcK/view?usp=drive_link)
+
 ## ✨ Fitur
 - Lihat jadwal kereta yang tersedia
 - Pesan tiket untuk satu atau lebih penumpang
