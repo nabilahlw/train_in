@@ -64,7 +64,6 @@ htdocs/
     │   └── ...
     ├── js/
     │   └── main.js
-    ├── uploads/          ← buat folder ini jika belum ada
     ├── index.php
     ├── koneksi.php
     ├── pesan.php
